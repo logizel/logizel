@@ -5,5 +5,11 @@
 <samp>
 
 
+
+cloud // linux // systems
+
 <a href="https://logizel.is-a.dev/"><strong>website</strong></a> | <a href="https://logizel.is-a.dev/blogs"><strong>blogs</strong></a> | <a href="https://x.com/logizel_"><strong>x (twitter)</strong></a> | <a href="mailto:jizelprince@gmail.com"><strong>email</strong></a>
+
+
+
 </samp>
